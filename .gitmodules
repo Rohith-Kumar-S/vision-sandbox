@@ -1,0 +1,9 @@
+[submodule "vision-filter-sandbox"]
+	path = vision-filter-sandbox
+	url = https://github.com/Rohith-Kumar-S/vision-filter-sandbox.git
+[submodule "vision-cbir-sandbox"]
+	path = vision-cbir-sandbox
+	url = https://github.com/Rohith-Kumar-S/vision-cbir-sandbox.git
+[submodule "vision-recognition-sandbox"]
+	path = vision-recognition-sandbox
+	url = https://github.com/Rohith-Kumar-S/vision-recognition-sandbox.git
